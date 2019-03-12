@@ -7,7 +7,7 @@ import java.util.List;
 
 public interface IProductDao {
     /**
-     * 查询全部产品  23423423423
+     * 查询全部产品  23423423423sdfsdfsd
      */
     @Select("select * from product")
     List<Product> findAll();
